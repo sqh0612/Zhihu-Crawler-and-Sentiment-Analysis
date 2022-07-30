@@ -1,0 +1,6 @@
+text_test.txt     存放爬取的评论内容
+test_result.txt   存放（情感得分，评论内容）
+result.txt        存放情感评价
+mid.csv    存放中性评论
+neg.csv    存放消极评论
+pos.csv    存放积极评论
